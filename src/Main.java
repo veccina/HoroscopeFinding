@@ -18,6 +18,8 @@ public class Main {
                 }
                 if ((day >= 22) && (day <= 31)) {
                     System.out.println("Aquarius");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 2:
@@ -26,6 +28,8 @@ public class Main {
                 }
                 if ((day > 19) && (day <= 28)) {
                     System.out.println("Pisces");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 3:
@@ -34,6 +38,8 @@ public class Main {
                 }
                 if ((day > 20) && (day <= 31)) {
                     System.out.println("Aries");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 4:
@@ -42,6 +48,8 @@ public class Main {
                 }
                 if ((day > 20) && (day <= 30)) {
                     System.out.println("Taurus");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 5:
@@ -50,6 +58,8 @@ public class Main {
                 }
                 if ((day > 21) && (day <= 31)) {
                     System.out.println("Gemini");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 6:
@@ -58,6 +68,8 @@ public class Main {
                 }
                 if ((day > 22) && (day <= 30)) {
                     System.out.println("Cancer");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 7:
@@ -66,6 +78,8 @@ public class Main {
                 }
                 if ((day > 23) && (day <= 31)) {
                     System.out.println("Leo");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 8:
@@ -74,6 +88,8 @@ public class Main {
                 }
                 if ((day > 22) && (day <= 31)) {
                     System.out.println("Virgo");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 9:
@@ -82,6 +98,8 @@ public class Main {
                 }
                 if ((day > 22) && (day <= 30)) {
                     System.out.println("Libra");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 10:
@@ -90,6 +108,8 @@ public class Main {
                 }
                 if ((day > 22) && (day <= 31)) {
                     System.out.println("Scorpio");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 11:
@@ -98,6 +118,8 @@ public class Main {
                 }
                 if ((day > 21) && (day <= 30)) {
                     System.out.println("Sagittarius");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
             case 12:
@@ -106,6 +128,8 @@ public class Main {
                 }
                 if ((day > 21) && (day <= 31)) {
                     System.out.println("Capricorn");
+                }else{
+                    System.out.println("İnvalid Date !!");
                 }
                 break;
         }
